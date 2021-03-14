@@ -1,5 +1,6 @@
 PASSIFY
+=====================================================================
+Your Sleek Password Manager
 
-===> Your Sleek Password Manager
-
-![Logo](https://github.com/ErikEremenko/Passify/blob/master/PassifyLogo.png?raw=true)
+![Logo](https://github.com/ErikEremenko/Passify/blob/master/Logo.png?raw=true)
+=====================================================================
